@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#main2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 95vh;
+  width: 95%;
+  border-radius: 100%;
+  border: 2px solid black;
+}
+#main3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  width: 50%;
+  border: 2px solid black;
+}
+h1{
+  border-bottom: 2px solid black;
+}
+h1:hover{
+  cursor: pointer;
+}
